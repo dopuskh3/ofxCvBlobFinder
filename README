@@ -1,0 +1,15 @@
+ofxCvBlobFinder
+
+
+This addons is inspired from ofxCvContourFinder included in ofxOpenCv addon.
+This addons provides the followind added features:
+ - convex hull on blobs
+ - approximated shape on blobs
+ - convexity defects on blobs
+
+
+See example/ directory for an example usage
+
+
+
+Francois Visconte <f.visconte@gmail.com>
